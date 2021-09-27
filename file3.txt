@@ -1,2 +1,6 @@
 this the first line of file3.
 
+this line is added after first commit.
+
+this line is added from branch 1.
+
