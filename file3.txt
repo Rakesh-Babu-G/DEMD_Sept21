@@ -1,0 +1,2 @@
+this the first line of file3.
+
